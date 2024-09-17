@@ -1,4 +1,4 @@
-# Foxi - Astro Theme
+# Digital Sierra - Astro Theme
 
 Open-source Astro website template with fully responsive, customizable TailwindCSS components.
 
