@@ -33,9 +33,9 @@ export interface NavData {
 
 export const navigationBarData: NavData = {
 	logo: {
-		src: '/logo.svg',
-		alt: 'The tailwind astro theme',
-		text: 'Foxi.'
+		src: '/logo.png',
+		alt: 'Cloud and DevOps Consulting',
+		text: 'Digital Sierra'
 	},
 	navItems: [
 		{ name: 'Home', link: '/' },

@@ -35,13 +35,13 @@ export interface FooterData {
 
 export const footerNavigationData: FooterData = {
 	footerAbout: {
-		title: 'Foxi.',
+		title: 'Digital Sierra',
 		aboutText:
-			'Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.',
+			"Unlock the power of integration with Digital Sierra's cutting-edge DevOps solutions. Our expert team seamlessly connects diverse tools, services, and data sources, delivering lightning-fast performance and unparalleled flexibility to fuel your digital transformation journey. ",
 		logo: {
-			src: '/logo.svg',
+			src: '/logo.png',
 			alt: 'The tailwind astro theme',
-			text: 'Foxi.'
+			text: 'Digital Sierra'
 		}
 	},
 	footerColumns: [
@@ -101,11 +101,15 @@ export const footerNavigationData: FooterData = {
 				{
 					subCategory: 'Join us',
 					subCategoryLink: '/contact'
+				},
+				{
+					subCategory: '+91 6005566020',
+					subCategoryLink: '/contact'
 				}
 			]
 		}
 	],
 	subFooter: {
-		copywriteText: '© Foxi 2024.'
+		copywriteText: '© Digital Sierra 2024.'
 	}
 }
